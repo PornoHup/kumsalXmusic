@@ -26,9 +26,7 @@
 <a href="https://t.me/kumsaldestekkanal"><img src="https://img.shields.io/badge/-destek%20kanal-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
-Bu bot hizmet amaçlı yapılmıştir
+Bu bot hizmet amaçlı yapı)
 
 
-
-
-https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/pornohup/kumsalXmusic)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/pornohup/kumsalXmusic.git)
